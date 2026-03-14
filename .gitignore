@@ -25,3 +25,9 @@ build/
 # systemowe
 .DS_Store
 Thumbs.db
+
+python312/
+python-embed/
+*.zip
+__pycache__/
+*.pyc
